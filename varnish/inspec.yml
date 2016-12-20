@@ -1,0 +1,11 @@
+name: Varnish
+title: Basic Varnish
+maintainer: The Authors
+copyright: The Authors
+copyright_email: suvadip@snp.com
+license: All Rights Reserved
+summary: Verify all Varnish configuration settings are secured
+version: 0.1.0
+supports:
+  - os-family: unix
+

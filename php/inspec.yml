@@ -1,0 +1,10 @@
+name: php
+title: Basic PHP
+maintainer: The Authors
+copyright: The Authors
+copyright_email: suvadip@snp.com
+license: All Rights Reserved
+summary: Verify that PHP configured securely
+version: 0.1.0
+supports:
+  - os-family: unix
